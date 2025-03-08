@@ -63,3 +63,11 @@ This project implements a **Breast Cancer Diagnostic System** using **R Programm
 1. Install required R packages:
    ```r
    install.packages(c("dplyr", "ggplot2", "caret", "randomForest", "pROC"))
+
+2. Run the R Notebook (breast-cancer-diagnostic-r-programming.ipynb).
+
+📜 Author
+Arpan Majumder
+📧 Contact: arpanmajumdar952@gmail.com
+
+🌟 If you found this project helpful, give it a ⭐ on GitHub!
